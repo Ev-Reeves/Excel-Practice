@@ -1,0 +1,10 @@
+Creating "Percent Funded" column w/ formula: "=E2:E4115/D2:D4115"
+
+Creating "Average Donation" from "pledged" and "backers count": "=E2:E4115/L2:L4115"
+
+Splitting "Category & Sub-Category" into "Category" and "Sub-category": Used Text to Columns Wizard w/ "/" as delimiter.
+
+Creating pivot table on sheet 2: place "state" in Columns and Values; place "Category" in Rows.
+
+	
+
