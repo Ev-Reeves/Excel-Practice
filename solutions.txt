@@ -6,5 +6,7 @@ Splitting "Category & Sub-Category" into "Category" and "Sub-category": Used Tex
 
 Creating pivot table on sheet 2: place "state" in Columns and Values; place "Category" in Rows.
 
+Converting timestamps to dates: =(((J2/60)/60)/24)+DATE(1970,1,1) (Accessed from https://www.extendoffice.com/documents/excel/2473-excel-timestamp-to-date.html)
+
 	
 
