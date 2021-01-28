@@ -1,0 +1,6 @@
+(Answer to final question)
+
+Based on the summary statistics table, the median should be a better summary of the numbers of backers than the mean.  The mean is sensitive to extreme values, and it appears that the maximum numbers of backers in both the 'successful' and 'unsuccessful' categories are outliers.
+
+	
+
